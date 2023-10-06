@@ -1,0 +1,31 @@
+html, body {
+    margin: 5px;
+    padding: 5px;
+}
+header{
+    margin: 5px;
+}
+
+#nav{
+    display: inline;
+    margin: 5px;
+}
+#section{
+    width: 70%;
+    float: left;
+}
+.noticias{
+    display: inline-block;
+}
+.noticia{
+    background-color: rgb(241, 241, 241);
+}
+#sidebar{
+    width: 30%;
+    float: right;
+    text-align: center;
+}
+footer {
+    clear: both;
+    text-align: center;
+}
